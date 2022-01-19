@@ -547,6 +547,10 @@ var adicionarDadosAlunoEscolaTabelaEMapa = () => {
                             break;
                         }
 
+
+
+
+                        
                     }
                 }
 
